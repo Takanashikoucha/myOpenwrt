@@ -6,4 +6,4 @@
 
 默认：root/password 192.168.31.1
 
-如需下载请到actions查看最新的编译情况并下载
+如需下载请到actions查看最新的编译情况，或者到release界面下载
